@@ -1,6 +1,6 @@
 import styles from './style'
 
-import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testemonials, Client, CTA, Footer } from './componets'
+import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testemonials } from './componets'
 const App = () => (
     <div className='bg-primary w-full overflow-hidden'>
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
@@ -21,9 +21,6 @@ const App = () => (
                 <Billing />
                 <CardDeal />
                 <Testemonials />
-                <Client />
-                <CTA />
-                <Footer />
             </div>
         </div>
     </div>

@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Novidades",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Produto",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Clientes",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Recompensas",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Os melhores cartões de crédito oferecem algumas combinações tentadoras de promoções e prêmios",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Seguro",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Tomamos medidas proativas para garantir que suas informações e transações estejam seguras.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Trasferencia Bancaria",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Um cartão de crédito para transferência de saldo pode economizar muito dinheiro em taxas de juros.",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "O dinheiro é apenas uma ferramenta. Ele o levará aonde você desejar, mas não o substituirá como motorista.",
+    name: "Richard Felipe",
+    title: "Fundador & Lider",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "O dinheiro torna sua vida mais fácil. Se você tiver sorte de tê-lo, você tem sorte..",
+    name: "Steven Renan",
+    title: "Fundador & Lider",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Geralmente são as pessoas que trabalham com dinheiro, finanças e comércio internacional que são realmente ricas.",
+    name: "Felipe Gallagher",
+    title: "CO-Founder",
     img: people03,
   },
 ];
@@ -73,24 +73,24 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Usuários ativos",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Confiados pela empresa",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Transferencias",
     value: "$230M+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Links Uteis",
     links: [
       {
         name: "Content",
